@@ -105,4 +105,69 @@ Además de estos atributos, la etiqueta input también admite una serie de atrib
 
 **Texto**
 
+![imagen2ses5](image-15.png)
+
+**Contraseña**
+
+![imag3ses5](image-16.png)
+
+![image4ses5](image-17.png)
+
+**Casilla de verificación**
+
+![ima5ses5](image-18.png)
+
+**Botón de reinicio**
+
+![imag6ses5](image-19.png)
+
+**Archivo**
+
+![imag6ses5](image-20.png)
+
+![imag7ses5](image-21.png)
+
+**Fecha**
+
+![imag8ses5](image-22.png)
+
+**Hora**
+
+![imag9ses5](image-23.png)
+
+**Fecha y hora**
+
+![imag10ses5](image-24.png)
+
+**Semana**
+
+![imag11ses5](image-25.png)
+
+**Teléfono**
+
+![imag12ses5](image-27.png)
+
+**URL**
+
+![imag13ses5](image-28.png)
+
+**Correo electronico**
+
+![imag14ses5](image-29.png)
+
+**Número**
+
+![imag15ses5](image-30.png)
+
+## **Ejemplos de tipos de etiqueta input**
+
+![imag16ses5](image-32.png)
+![imag17ses5](image-33.png)
+![imag18ses5](image-35.png)
+![imag19ses5](image-36.png)
+
+
+
+
+
 
