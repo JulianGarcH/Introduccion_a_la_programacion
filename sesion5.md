@@ -299,6 +299,41 @@ Los botones HTML5 son una herramienta útil para realizar acciones en una págin
 ![imag26ses5](image-43.png)
 
 
+# **Actividad: Diseñar un formulario de pedido de un producto**
+
+Objetivo:
+
+Aplicar los conocimientos sobre los tipos de etiquetas HTML para diseñar un formulario de pedido de un producto.
+
+Instrucciones:
+
+1. Crear un nuevo documento HTML.
+
+1. Crear un formulario con los siguientes campos:
+
+- Nombre del producto
+
+- Cantidad
+
+- Precio unitario
+
+- Precio total
+
+- Dirección de envío
+
+- Información de contacto (nombre, correo electrónico, número de teléfono)
+
+1. Agregar los siguientes campos relacionados al formulario:
+
+- Método de pago
+
+- Fecha de entrega
+
+- Comentarios
+
+1. Utilizar las etiquetas HTML apropiados para cada campo.
+
+
 
 
 
