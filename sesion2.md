@@ -636,31 +636,35 @@ A continuación se enumeran algunos atributos globales que se pueden utilizar co
 
 Aquí hay un ejemplo de una sección HTML simple:
 
+(
 <section>
   <h2>Esta es una sección</h2>
   <p>Este es el contenido de la sección.</p>
 </section>
+)
 
 Esta sección contiene un título y un párrafo. El título se muestra en la parte superior de la sección y el párrafo se muestra debajo del título.
 
 Puedes usar la etiqueta <section> para crear secciones personalizadas para tus páginas web. Las secciones pueden contener cualquier elemento HTML que desees, pero es importante que el contenido de la sección sea relevante para el contenido principal de la página web.
 
-## **<figure>**
+## (**<figure>**)
 
-La etiqueta HTML <figure> se utiliza para etiquetar un elemento de contenido que es independiente del contenido principal de una página web, como una imagen o una tabla. La etiqueta <figure> puede contener cualquier elemento HTML, pero se suele utilizar para contener imágenes, tablas, o diagramas.
+La etiqueta HTML (<figure>) se utiliza para etiquetar un elemento de contenido que es independiente del contenido principal de una página web, como una imagen o una tabla. La etiqueta (<figure>) puede contener cualquier elemento HTML, pero se suele utilizar para contener imágenes, tablas, o diagramas.
 
-La etiqueta <figure> tiene dos atributos principales:
+La etiqueta (<figure>) tiene dos atributos principales:
 
-caption: Este atributo se utiliza para establecer una leyenda para la figura. La leyenda se muestra debajo de la figura. align: Este atributo se utiliza para alinear la figura horizontalmente. Los valores posibles son left, center y right. Aquí hay un ejemplo de una figura HTML simple:
+**caption:** Este atributo se utiliza para establecer una leyenda para la figura. La leyenda se muestra debajo de la figura. align: Este atributo se utiliza para alinear la figura horizontalmente. Los valores posibles son left, center y right. Aquí hay un ejemplo de una figura HTML simple:
 
+(
 <figure>
   <img src="image.jpg" alt="Imagen de la figura">
   <figcaption>Esta es la leyenda de la figura</figcaption>
 </figure>
+)
 
 Esta figura contiene una imagen y una leyenda. La imagen se muestra en la parte superior de la figura y la leyenda se muestra debajo de la imagen.
 
-Puedes usar la etiqueta <figure> para crear figuras personalizadas para tus páginas web. Las figuras pueden contener cualquier elemento HTML que desees, pero es importante que el contenido de la figura sea independiente del contenido principal de la página web.
+Puedes usar la etiqueta (<figure>) para crear figuras personalizadas para tus páginas web. Las figuras pueden contener cualquier elemento HTML que desees, pero es importante que el contenido de la figura sea independiente del contenido principal de la página web.
 
 Cheatsheet
 ![cheatsheet](https://doc-ip.vercel.app/assets/files/html5-cheatsheet-emezeta-bea2bb1b1331af37cd796a4adb26550b.pdf)
