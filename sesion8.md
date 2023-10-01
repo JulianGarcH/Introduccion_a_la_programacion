@@ -269,7 +269,7 @@ Sombra al elemento con ID "#sombras"
 Aplica los siguientes estilos usando seleccionadores descendientes:
 
 Color gris a los párrafos dentro de un div
-Centrar el contenido de la sección <ection
+Centrar el contenido de la sección section
 
 
 
