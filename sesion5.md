@@ -195,6 +195,110 @@ La etiqueta textarea tiene los siguientes atributos:
 
 - readonly: Especifica si el textarea input está bloqueado para escritura.
 
+El siguiente código muestra un ejemplo de textarea input HTML5:
+
+![imag20ses5](image-37.png)
+
+Este código creará un textarea input con 10 filas y 50 columnas. El usuario podrá ingresar hasta 500 caracteres en el textarea input.
+
+Los textarea input HTML5 son una herramienta útil para recopilar texto largo de los usuarios.
+
+# **La etiqueta select**
+
+La etiqueta select HTML5 se utiliza para crear un menú desplegable. Los menús desplegables se utilizan a menudo para recopilar una selección de opciones de los usuarios.
+
+La etiqueta select tiene los siguientes atributos:
+
+- name: Especifica el nombre del control de entrada. El nombre del control de entrada se utiliza para identificar el control de entrada en el formulario.
+
+- id: Especifica el ID del control de entrada. El ID del control de entrada se utiliza para identificar el control de entrada en el código JavaScript.
+
+- multiple: Especifica si el usuario puede seleccionar más de una opción del menú desplegable.
+
+- size: Especifica el número de opciones que se muestran en el menú desplegable de forma predeterminada.
+
+- required: Especifica si el menú desplegable es obligatorio.
+
+- disabled: Especifica si el menú desplegable está deshabilitado.
+
+- readonly: Especifica si el menú desplegable está bloqueado para escritura.
+
+
+El siguiente código muestra un ejemplo de select input HTML5:
+
+![imag21ses5](image-38.png)
+
+Este código creará un menú desplegable con tres opciones: rojo, verde y azul. El usuario puede seleccionar una opción del menú desplegable.
+
+También puede utilizar el atributo multiple para permitir que el usuario seleccione más de una opción del menú desplegable. Por ejemplo, el siguiente código creará un menú desplegable con tres opciones, y el usuario podrá seleccionar todas las opciones que desee:
+
+![imag22ses5](image-39.png)
+
+
+Los menús desplegables HTML5 son una herramienta útil para recopilar una selección de opciones de los usuarios.
+
+La etiqueta option
+La etiqueta option HTML5 se utiliza para crear una opción en un menú desplegable. Las opciones se utilizan para recopilar una selección de opciones de los usuarios.
+
+La etiqueta option tiene los siguientes atributos:
+
+- value: Especifica el valor de la opción. El valor de la opción se envía al servidor cuando el usuario selecciona la opción.
+
+- label: Especifica el texto que se muestra en la opción.
+
+- selected: Especifica si la opción está seleccionada de forma predeterminada.
+
+- disabled: Especifica si la opción está deshabilitada.
+
+- readonly: Especifica si la opción está bloqueada para escritura.
+
+El siguiente código muestra un ejemplo de etiqueta option HTML5:
+
+![imag23ses5](image-40.png)
+
+Este código creará tres opciones de menú desplegable: rojo, verde y azul. El atributo value especifica el valor de cada opción. El atributo label especifica el texto que se muestra en cada opción.
+
+También puede utilizar el atributo selected para seleccionar una opción de forma predeterminada. Por ejemplo, el siguiente código seleccionará la opción rojo de forma predeterminada:
+
+![imag24ses5](image-41.png)
+
+Las etiquetas option HTML5 son una herramienta útil para recopilar una selección de opciones de los usuarios.
+
+La etiqueta button
+La etiqueta button HTML5 se utiliza para crear un botón. Los botones se utilizan para realizar acciones, como enviar un formulario, abrir una nueva pestaña o ventana, o iniciar un proceso.
+
+La etiqueta button tiene los siguientes atributos:
+
+- type: Especifica el tipo de botón. Los tipos de botón comunes incluyen submit, reset, y button.
+
+- name: Especifica el nombre del botón. El nombre del botón se utiliza para identificar el botón en el formulario.
+
+- id: Especifica el ID del botón. El ID del botón se utiliza para identificar el botón en el código JavaScript.
+
+- value: Especifica el valor del botón. El valor del botón se envía al servidor cuando el usuario hace clic en el botón.
+
+- disabled: Especifica si el botón está deshabilitado.
+
+
+El siguiente código muestra un ejemplo de etiqueta button HTML5:
+
+![imag25ses5](image-42.png)
+
+Este código creará un botón que dice "Enviar". El botón es del tipo submit, lo que significa que enviará el formulario al servidor cuando el usuario haga clic en él. El valor del botón es "Enviar", que se enviará al servidor cuando el usuario haga clic en el botón.
+
+También puede utilizar el atributo type para especificar el tipo de botón. Los tipos de botón comunes incluyen:
+
+- submit: Este tipo de botón envía el formulario al servidor cuando el usuario hace clic en él.
+
+- reset: Este tipo de botón restablece el formulario a su estado inicial cuando el usuario hace clic en él.
+
+- button: Este tipo de botón no tiene una función predefinida. El botón se puede utilizar para realizar cualquier acción deseada.
+
+Los botones HTML5 son una herramienta útil para realizar acciones en una página web.
+
+![imag26ses5](image-43.png)
+
+
 
 
 
