@@ -166,23 +166,34 @@ Además de estos atributos, la etiqueta input también admite una serie de atrib
 ![imag18ses5](image-35.png)
 ![imag19ses5](image-36.png)
 
-# **La etiqueta <textarea>**
+# **La etiqueta textarea**
 
 
-La etiqueta <textarea> HTML5 se utiliza para crear un control de entrada de texto de varias líneas. Los textarea input se utilizan a menudo para recopilar comentarios, reseñas, o otro tipo de texto largo.
+La etiqueta textarea HTML5 se utiliza para crear un control de entrada de texto de varias líneas. Los textarea input se utilizan a menudo para recopilar comentarios, reseñas, o otro tipo de texto largo.
 
 La etiqueta textarea tiene los siguientes atributos:
 
-name: Especifica el nombre del control de entrada. El nombre del control de entrada se utiliza para identificar el control de entrada en el formulario.
-id: Especifica el ID del control de entrada. El ID del control de entrada se utiliza para identificar el control de entrada en el código JavaScript.
-placeholder: Especifica un texto predeterminado que se muestra en el control de entrada cuando está vacío.
-rows: Especifica el número de filas del textarea input.
-cols: Especifica el número de columnas del textarea input.
-maxlength: Especifica la longitud máxima del texto que se puede ingresar en el textarea input.
-minlength: Especifica la longitud mínima del texto que se puede ingresar en el textarea input.
-required: Especifica si el textarea input es obligatorio.
-disabled: Especifica si el textarea input está deshabilitado.
-readonly: Especifica si el textarea input está bloqueado para escritura.
+- name: Especifica el nombre del control de entrada. El nombre del control de entrada se utiliza para 
+
+- identificar el control de entrada en el formulario.
+
+- id: Especifica el ID del control de entrada. El ID del control de entrada se utiliza para identificar el control de entrada en el código JavaScript.
+
+- placeholder: Especifica un texto predeterminado que se muestra en el control de entrada cuando está vacío.
+
+- rows: Especifica el número de filas del textarea input.
+
+- cols: Especifica el número de columnas del textarea input.
+
+- maxlength: Especifica la longitud máxima del texto que se puede ingresar en el textarea input.
+
+- minlength: Especifica la longitud mínima del texto que se puede ingresar en el textarea input.
+
+- required: Especifica si el textarea input es obligatorio.
+
+- disabled: Especifica si el textarea input está deshabilitado.
+
+- readonly: Especifica si el textarea input está bloqueado para escritura.
 
 
 
