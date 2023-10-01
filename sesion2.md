@@ -247,7 +247,7 @@ Las etiquetas meta HTML son una parte importante del lenguaje HTML. Se utilizan 
 
 Los encabezados HTML se utilizan para definir la estructura de una página web. También son utilizados por los motores de búsqueda para indexar el contenido de una página. Hay seis niveles de encabezados en HTML, desde el más importante (<h1>) hasta el menos importante (<h6>).
 
-- <h1> es el encabezado más importante y debe ser utilizado para el título principal de la página.
+- (<h1>) es el encabezado más importante y debe ser utilizado para el título principal de la página.
 - <h2> es el siguiente encabezado más importante y debe ser utilizado para secciones principales de la página.
 - <h3> se usa para secciones menos importantes de la página.
 - <h4> se usa para secciones aún menos importantes de la página.
