@@ -127,3 +127,57 @@ Ejemplo:
 Ejemplo:
 
 ![ima18ses9](image-102.png)
+
+
+# **Actividad: Propiedades de espaciado y unidades de medida**
+
+Objetivo:
+
+Practicar el uso de las propiedades de espaciado margin, padding, border y border-radius, con diferentes unidades de medida.
+
+1. Crea un nuevo archivo HTML y CSS.
+2. En el archivo HTML, agrega el siguiente código:
+
+![imag19ses9](image-103.png)
+
+3. En el archivo CSS, agrega el siguiente código:
+
+![ima20ses9](image-104.png)
+
+4. Abre el archivo HTML en tu navegador. Verás un cuadrado de 100x100 píxeles.
+
+5. Practicar el uso de las propiedades de espaciado.
+
+- Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
+
+![imag21ses9](image-105.png)
+
+- Padding: Agrega un relleno de 20 píxeles a todos los lados del elemento.
+
+![imag22ses9](image-106.png)
+
+- Border: Agrega un borde de 5 píxeles de color rojo.
+
+![ima23ses9](image-107.png)
+
+- Border-radius: Agrega un radio de esquina de 10 píxeles.
+
+![imag24ses9](image-108.png)
+
+- **Unidades de medida:** Prueba diferentes unidades de medida para las propiedades de espaciado. Por ejemplo, puedes usar unidades porcentuales (%) para establecer un margen o relleno del 50%.
+
+![imag25ses9](image-109.png)
+
+
+# **Preguntas:**
+
+1. ¿Qué es la propiedad margin?
+
+1. ¿Qué es la propiedad padding?
+
+1. ¿Qué es la propiedad border?
+
+1. ¿Qué es la propiedad border-radius?
+
+1. ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
+
