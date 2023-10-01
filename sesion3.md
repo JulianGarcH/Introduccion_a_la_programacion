@@ -270,4 +270,4 @@ Los encabezados de nivel 2 (<h2>) tienen color azul.
 El pie de página (<footer>) tiene un fondo oscuro, texto blanco, espacio de relleno y está centrado.
 Este sitio utiliza HTML5 y CSS para presentar información sobre etiquetas multimedia en HTML5, con una estructura semántica que utiliza encabezados, párrafos y secciones para organizar y presentar el contenido. El estilo CSS proporciona una apariencia visual coherente y agradable.
 
-[index](file:///C:/Users/Julian/Desktop/CESDE/P%20Introduccion%20a%20la%20programacion%20-%201/etiquetas%20multimedia/index.html)
+[index](https://drive.google.com/drive/u/0/folders/1AOoFXQg2eCrF9iIiNpO0EpixpdaRHvSa)
