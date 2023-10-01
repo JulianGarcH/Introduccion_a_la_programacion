@@ -230,7 +230,8 @@ Además, puedes emplear las siguientes etiquetas para mejorar la estructura y es
 ![imagen1.3](image-9.png)
 
 
-Semántica y Estructura de la Plantilla
+# **Semántica y Estructura de la Plantilla**
+
 El código HTML y CSS proporcionado describe un sitio web que trata sobre etiquetas multimedia en HTML5. A continuación, se desglosa la semántica y estructura del sitio:
 
 <!DOCTYPE html>: Esto define el tipo de documento como HTML5.
@@ -241,7 +242,7 @@ El código HTML y CSS proporcionado describe un sitio web que trata sobre etique
 
 (<title>:) Establece el título de la página en la pestaña del navegador.
 
-(<style>:) Contiene reglas de estilo CSS que afectan al diseño y la apariencia del sitio.
+(style:) Contiene reglas de estilo CSS que afectan al diseño y la apariencia del sitio.
 
 (<body>:) Aquí se coloca el contenido principal visible de la página.
 
