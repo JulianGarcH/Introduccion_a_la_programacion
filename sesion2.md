@@ -657,3 +657,146 @@ Cheatsheet
 
 
 
+# **Actividad: Creando mi primer sitio web**
+
+Crea un sitio web compuesto por 3 páginas HTML utilizando la estructura y los elementos que has aprendido. Personaliza el sitio y utiliza diferentes etiquetas HTML.
+
+**Las páginas del sitio serán:**
+
+- Index o página de inicio
+- Acerca
+- Contacto
+
+# **INDEX**
+ <!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Mi primer sitio web</title>
+</head>
+<body>
+
+    <header>
+        <h1>Todo Bici</h1>
+</header>
+<nav>
+    <a href="about.html">Nosotros</a>
+    <a href="contact.html">Contacto</a>
+</nav>
+
+<main>
+    <p>Bienvenidos a mi sitio web de bicicletas</p>
+    <p>Aqui encontraran información sobre todo tipo de bicicletas,
+        accesorio y demas componentes para estos lindos deportes</p>
+</main>
+
+<footer>
+    <p>Copyright 2023 - Todo Bici</p>
+    <p>todobicienweb@gmail.com</p>
+</footer>
+
+</body>
+
+</html>
+
+
+# **about.html**
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Sobre nosotros</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Sobre nosotros</h1>
+</header>
+
+<nav>
+<a href="index.html">Inicio</a>
+<a href="contact.html">Contacto</a>
+</nav>
+
+<section>
+    <h2>Historia</h2>
+    <p>Fundada en 2020 en un barrio del municipio de copacabana llamado el recreo,
+        en una terraza por Julian Alexis buscando y queriendo cumplir
+        con todas la necesidades y exigencias de todo tipo de publico
+        tanto profesional semiprofesional o amateur</p>
+    <article>
+        <h3>Mision y vision</h3>
+        
+        <p>misión es proporcionar y proveer todo tipo
+            de bicicletas y accesorios de la mejor calidad motivando
+            desde los infantes hasta un amplio
+            numero de usuarios de esta grades practicas deportivas
+        </p>
+        <p>Nuestra vision es brindar confianza y consolidar un publico amante a las bicicletas
+            generando faciles maneras de adqucision a ellas buscando cumplir las
+            espectativas de nuestros deportistas</p>
+    </article>
+
+</section>
+
+<footer>
+    <p>Copyright 2020 - Julian Garcia</p>
+    <p>todobicienweb@gmail.com</p>
+</footer>
+
+</body>
+</html>
+
+
+# **contact.html**
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Contacto</title>
+</head>
+
+<body>
+    
+    <header>
+        <h1>Contacto</h1>
+</header>
+
+<nav>
+    <a href="index.html">Inicio</a>
+    <a href="about.html">Acerca</a>
+</nav>
+
+<main>
+    
+    <form>
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre"><br>
+        
+        <label for="email">Email:</label>
+        <input type="email" id="email"><br>
+        
+        <label for="mensaje">Mensaje:</label><br>
+        <textarea id="mensaje"></textarea><br>
+        
+        <input type="submit" value="Enviar">
+    </form>
+    
+    <aside>
+        <h3>Ubicación</h3>
+        <p>Calle 40 # 50 a 99 Copacabana Antioquia</p>
+    </aside>
+
+</main>
+
+<footer>
+    <p>Copyright 2022 - Julian Alexis</p>
+</footer>
+
+</body>
+
+</html>
