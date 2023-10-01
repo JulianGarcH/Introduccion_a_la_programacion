@@ -248,23 +248,23 @@ Las etiquetas meta HTML son una parte importante del lenguaje HTML. Se utilizan 
 Los encabezados HTML se utilizan para definir la estructura de una página web. También son utilizados por los motores de búsqueda para indexar el contenido de una página. Hay seis niveles de encabezados en HTML, desde el más importante (<h1>) hasta el menos importante (<h6>).
 
 - (<h1>) es el encabezado más importante y debe ser utilizado para el título principal de la página.
-- <h2> es el siguiente encabezado más importante y debe ser utilizado para secciones principales de la página.
-- <h3> se usa para secciones menos importantes de la página.
-- <h4> se usa para secciones aún menos importantes de la página.
-- <h5> se usa para secciones muy pequeñas de la página.
-- <h6> es el encabezado menos importante y debe ser utilizado para secciones muy pequeñas de la página.
+- (<h2>) es el siguiente encabezado más importante y debe ser utilizado para secciones principales de la página.
+- (<h3>) se usa para secciones menos importantes de la página.
+- (<h4>) se usa para secciones aún menos importantes de la página.
+- (<h5>) se usa para secciones muy pequeñas de la página.
+- (<h6>) es el encabezado menos importante y debe ser utilizado para secciones muy pequeñas de la página.
 - Es importante utilizar encabezados de forma consistente en toda una página. Por ejemplo, si utilizas <h2> para una sección al principio de la página, debes utilizar <h2> para todas las demás secciones de la misma importancia. Esto ayudará a crear una estructura consistente para la página y hará que sea más fácil para los usuarios escanear y comprender el contenido.
 
 También puedes usar CSS para dar formato a los encabezados de tu página. Por ejemplo, puedes cambiar el tamaño de la fuente, el color y el peso de los encabezados. Esto puede ayudar a que los encabezados destaquen y hagan que la página sea más atractiva visualmente.
 
 **Aquí hay un ejemplo de cómo utilizar encabezados HTML:**
 
-<h1>Este es el título principal de la página</h1>
-<h2>Esta es una sección principal de la página</h2>
-<h3>Esta es una sección menos importante de la página</h3>
-<h4>Esta es una sección aún menos importante de la página</h4>
-<h5>Esta es una sección muy pequeña de la página</h5>
-<h6>Esta es la sección menos importante de la página</h6>
+(<h1>) Este es el título principal de la página</h1>
+(<h2>) Esta es una sección principal de la página</h2>
+(<h3>) Esta es una sección menos importante de la página</h3>
+(<h4>) Esta es una sección aún menos importante de la página</h4>
+(<h5>) Esta es una sección muy pequeña de la página</h5>
+(<h6>) Esta es la sección menos importante de la página</h6>
 
 ## **<p>**
 Un párrafo HTML es un bloque de texto que está rodeado por etiquetas <p> y </p>. Los párrafos se utilizan para organizar el texto en una página web.
@@ -288,24 +288,25 @@ Las listas en HTML se pueden usar para enumerar elementos. Hay dos tipos de list
 Las listas ordenadas se utilizan para enumerar elementos en un orden específico. Los elementos de una lista ordenada se numeran automáticamente, empezando por 1. Las listas no ordenadas se utilizan para enumerar elementos sin un orden específico. Los elementos de una lista no ordenada se muestran con viñetas. Para crear una lista en HTML, debes usar las etiquetas <ol> o <ul>. A continuación, debes insertar los elementos de la lista entre las etiquetas <li>.
 
 **Aquí hay un ejemplo de una lista ordenada:**
-
+(
 <ol>
   <li>Elemento 1</li>
   <li>Elemento 2</li>
   <li>Elemento 3</li>
-</ol>
+</ol>)
 
 **Lista no ordenada**
-
+(
 <ul>
   <li>Elemento 1</li>
   <li>Elemento 2</li>
   <li>Elemento 3</li>
 </ul>
+)
 
 Puedes usar listas ordenadas y listas no ordenadas para organizar el texto y la información en tus páginas web.
 
-# **<a>**
+# (**<a>**)
 
 
 Los enlaces HTML son una forma de conectar una página web a otra página web o a un recurso externo, como una imagen o un archivo PDF. Se utilizan para crear hipervínculos que los usuarios pueden hacer clic para navegar a otros lugares.
