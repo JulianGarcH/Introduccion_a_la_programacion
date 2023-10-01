@@ -74,13 +74,13 @@ El atributo for de la etiqueta <label> es obligatorio para que la etiqueta <labe
 
 La etiqueta <label> es una herramienta importante para mejorar la accesibilidad de los formularios web. Al asociar una etiqueta con un control de entrada, podemos proporcionar una etiqueta para el control de entrada, lo que ayuda a los usuarios a comprender la función del control de entrada.
 
-# **La etiqueta <input>**
+# **La etiqueta input**
 
-La etiqueta <input> de HTML se utiliza para crear controles interactivos para formularios web. Los controles de entrada pueden ser campos de texto, botones de radio, casillas de verificación, listas desplegables, etc.
+La etiqueta input de HTML se utiliza para crear controles interactivos para formularios web. Los controles de entrada pueden ser campos de texto, botones de radio, casillas de verificación, listas desplegables, etc.
 
-La etiqueta <input> tiene los siguientes atributos obligatorios:
+La etiqueta input tiene los siguientes atributos obligatorios:
 
-type: Especifica el tipo de control de entrada. Los tipos de control de entrada más comunes son text, password, radio, checkbox, submit, reset y file. name: Especifica el nombre del control de entrada. Este nombre se utiliza para identificar el control de entrada en el código del servidor. La etiqueta <input> también tiene los siguientes atributos opcionales:
+type: Especifica el tipo de control de entrada. Los tipos de control de entrada más comunes son text, password, radio, checkbox, submit, reset y file. name: Especifica el nombre del control de entrada. Este nombre se utiliza para identificar el control de entrada en el código del servidor. La etiqueta input también tiene los siguientes atributos opcionales:
 
 - value: Especifica el valor inicial del control de entrada.
 
@@ -100,7 +100,7 @@ type: Especifica el tipo de control de entrada. Los tipos de control de entrada 
 
 - autofocus: Especifica el control de entrada que debe tener el foco cuando la página se carga.
 
-Además de estos atributos, la etiqueta <input> también admite una serie de atributos aria para mejorar la accesibilidad de los controles de entrada para las personas con discapacidades.
+Además de estos atributos, la etiqueta input también admite una serie de atributos aria para mejorar la accesibilidad de los controles de entrada para las personas con discapacidades.
 
 ## **Ejemplos de la etiqueta input:**
 
