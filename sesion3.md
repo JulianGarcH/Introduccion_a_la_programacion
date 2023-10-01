@@ -23,9 +23,9 @@ La etiqueta img se utiliza para agregar imágenes a una página web. El atributo
 
 Ejemplo:
 
-(
-<img src="imagen.jpg" alt="Esta es una descripción de la imagen">
-)
+
+(<img src="imagen.jpg" alt="Esta es una descripción de la imagen">)
+
 
 En este ejemplo, la imagen imagen.jpg se agregará a la página web. Si la imagen no se puede cargar, la descripción alternativa Esta es una descripción de la imagen se mostrará en su lugar.
 
@@ -47,9 +47,9 @@ La etiqueta video se utiliza para agregar videos a una página web. El atributo 
 
 Ejemplo:
 
-(
-<video src="video.mp4" controls></video>
-)
+
+(<video src="video.mp4" controls></video>)
+
 
 En este ejemplo, el video video.mp4 se agregará a la página web. Los controles del video, como el botón de reproducción, el botón de pausa y el botón de avance rápido, se mostrarán debajo del video.
 
@@ -75,9 +75,9 @@ La etiqueta audio se utiliza para agregar audio a una página web. El atributo s
 
 Ejemplo:
 
-(
-<audio src="audio.mp3" controls></audio>
-)
+
+(<audio src="audio.mp3" controls></audio>)
+
 
 En este ejemplo, el audio audio.mp3 se agregará a la página web. Los controles del audio, como el botón de reproducción, el botón de pausa y el botón de avance rápido, se mostrarán debajo del audio.
 
@@ -169,10 +169,15 @@ https://www.iconarchive.com/
 # **Este código HTML está creando una página web con diferentes elementos multimedia, incluyendo:**
 
 - Etiquetas de encabezado <h1> y <h2> para títulos.
+
 - Párrafos <p> con descripciones.
+
 - Una imagen <img>
+
 - Un video <video> con controles.
+
 - Un audio <audio> con controles.
+
 - Un iframe de YouTube.
 
 También tiene definidos estilos CSS dentro de la etiqueta <style> que incluyen:
