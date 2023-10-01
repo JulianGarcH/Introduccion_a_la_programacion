@@ -576,7 +576,7 @@ A continuación se enumeran algunos atributos globales que se pueden utilizar co
 Es importante tener en cuenta que los atributos globales no son específicos de la etiqueta <nav>. Se pueden utilizar con cualquier elemento HTML.
 
 Aquí hay un ejemplo de un menú de navegación HTML simple:
-
+(
 <nav>
   <ul>
     <li><a href="#">Inicio</a></li>
@@ -584,35 +584,45 @@ Aquí hay un ejemplo de un menú de navegación HTML simple:
     <li><a href="#">Contacto</a></li>
   </ul>
 </nav>
+)
 
 Este menú de navegación contiene tres enlaces. Los enlaces se muestran en una lista ordenada.
 
 Puedes usar la etiqueta <nav> para crear menús de navegación personalizados para tus páginas web. Los menús de navegación pueden contener cualquier elemento HTML que desees, pero es importante que el contenido del menú de navegación sea relevante para el contenido principal de la página web.
 
-<article>
-La etiqueta HTML <article> se utiliza para etiquetar un artículo independiente, como un artículo de blog o una noticia. Un artículo puede contener texto, imágenes, vídeos, u otros elementos HTML.
+## (**<article>**)
 
-La etiqueta <article> no tiene atributos específicos. Sin embargo, se pueden utilizar atributos globales como id, class, style, title, etc.
+La etiqueta HTML (<article>) se utiliza para etiquetar un artículo independiente, como un artículo de blog o una noticia. Un artículo puede contener texto, imágenes, vídeos, u otros elementos HTML.
 
-A continuación se enumeran algunos atributos globales que se pueden utilizar con la etiqueta <article>:
+
+La etiqueta (<article>) no tiene atributos específicos. Sin embargo, se pueden utilizar atributos globales como id, class, style, title, etc.
+
+
+
+A continuación se enumeran algunos atributos globales que se pueden utilizar con la etiqueta (<article>:)
 
 - id: Este atributo se utiliza para dar un id único al artículo. El id se puede utilizar para hacer referencia al artículo en CSS o JavaScript.
+
 - class: Este atributo se utiliza para dar una clase al artículo. La clase se puede utilizar para aplicar - - estilos CSS al artículo.
+
 - style: Este atributo se utiliza para establecer estilos CSS para el artículo.
+
 - title: Este atributo se utiliza para establecer un título para el artículo. El título se muestra en la barra de título del navegador cuando el usuario pasa el cursor sobre el artículo.
 
 Es importante tener en cuenta que los atributos globales no son específicos de la etiqueta <article>. Se pueden utilizar con cualquier elemento HTML.
 Aquí hay un ejemplo de un artículo HTML simple:
 
+(
 <article>
   <h1>Este es un artículo</h1>
   <p>Este es el contenido del artículo.</p>
   <img src="image.jpg" alt="Imagen del artículo">
 </article>
+)
 
 Este artículo contiene un título, un párrafo y una imagen. El título se muestra en la parte superior del artículo y el párrafo se muestra debajo del título. La imagen se muestra debajo del párrafo.
 
-Puedes usar la etiqueta <article> para crear artículos personalizados para tus páginas web. Los artículos pueden contener cualquier elemento HTML que desees, pero es importante que el contenido del artículo sea relevante para el contenido principal de la página web.
+Puedes usar la etiqueta (<article>) para crear artículos personalizados para tus páginas web. Los artículos pueden contener cualquier elemento HTML que desees, pero es importante que el contenido del artículo sea relevante para el contenido principal de la página web.
 
 ## **<section>**
 
