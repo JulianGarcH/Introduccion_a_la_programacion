@@ -130,15 +130,15 @@ La estructura básica de un documento HTML5 consta de las etiquetas esenciales q
 
 **Explicación:**
 
-- <!DOCTYPE html>: Declaración del tipo de documento, que indica que estás utilizando HTML5.
-- <html>: Elemento raíz que engloba todo el contenido HTML.
-- <head>: Encabezado del documento, contiene metadatos y enlaces a recursos.
-- <meta charset="UTF-8">: Define la codificación de caracteres del documento (UTF-8 es comúnmente utilizado y admite caracteres de diferentes idiomas).
-- <meta name="viewport" content="width=device-width, initial-scale=1.0">: Define la configuración de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
-- <title>: Define el título de la página que se muestra en la barra de título del navegador.
-- <body>: Contiene el contenido visible de la página.
-- <h1>: Encabezado de nivel 1, utilizado para títulos importantes.
-- <p>: Párrafo, para insertar texto y contenido.
+- (<!DOCTYPE html>:) Declaración del tipo de documento, que indica que estás utilizando HTML5.
+- (<html>:) Elemento raíz que engloba todo el contenido HTML.
+- (<head>:) Encabezado del documento, contiene metadatos y enlaces a recursos.
+- (<meta charset="UTF-8">:) Define la codificación de caracteres del documento (UTF-8 es comúnmente utilizado y admite caracteres de diferentes idiomas).
+- (<meta name="viewport" content="width=device-width, initial-scale=1.0">:) Define la configuración de la vista en dispositivos móviles, permitiendo un diseño adaptable (responsivo) ajustado al ancho del dispositivo.
+- (<title>:) Define el título de la página que se muestra en la barra de título del navegador.
+- (<body>:) Contiene el contenido visible de la página.
+- (<h1>:) Encabezado de nivel 1, utilizado para títulos importantes.
+- (<p>:) Párrafo, para insertar texto y contenido.
 
 
 ## **<!DOCTYPE html>**
@@ -168,10 +168,10 @@ La etiqueta HTML <head> es una sección de un documento HTML que contiene inform
 
 La etiqueta <head> no contiene ningún contenido, pero puede contener las siguientes etiquetas:
 
-- <title>: La etiqueta <title> contiene el título del documento HTML. El título se mostrará en la ventana del navegador y en los resultados de búsqueda.
-- <meta>: La etiqueta <meta> se utiliza para agregar información meta al documento HTML. La información meta no se muestra en la página web, pero se utiliza por los motores de búsqueda y otros programas.
-- <link>: La etiqueta <link> se utiliza para enlazar el documento HTML a otros recursos, como archivos CSS, archivos JavaScript y archivos de imágenes.
-- <script>: La etiqueta <script> se utiliza para insertar código JavaScript en el documento HTML. El código JavaScript se ejecuta en el navegador del usuario y puede utilizarse para agregar funcionalidad a la página web.
+- (<title>:) La etiqueta <title> contiene el título del documento HTML. El título se mostrará en la ventana del navegador y en los resultados de búsqueda.
+- (<meta>:) La etiqueta <meta> se utiliza para agregar información meta al documento HTML. La información meta no se muestra en la página web, pero se utiliza por los motores de búsqueda y otros programas.
+- (<link>:) La etiqueta <link> se utiliza para enlazar el documento HTML a otros recursos, como archivos CSS, archivos JavaScript y archivos de imágenes.
+- (<script>:) La etiqueta (<script>) se utiliza para insertar código JavaScript en el documento HTML. El código JavaScript se ejecuta en el navegador del usuario y puede utilizarse para agregar funcionalidad a la página web.
 La etiqueta <head> es importante porque ayuda a estructurar un documento HTML y a proporcionar información sobre el documento al navegador.
 
 ## **<body>**
