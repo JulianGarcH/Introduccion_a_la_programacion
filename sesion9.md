@@ -136,17 +136,18 @@ Objetivo:
 Practicar el uso de las propiedades de espaciado margin, padding, border y border-radius, con diferentes unidades de medida.
 
 1. Crea un nuevo archivo HTML y CSS.
-2. En el archivo HTML, agrega el siguiente código:
+
+1. En el archivo HTML, agrega el siguiente código:
 
 ![imag19ses9](image-103.png)
 
-3. En el archivo CSS, agrega el siguiente código:
+1. En el archivo CSS, agrega el siguiente código:
 
 ![ima20ses9](image-104.png)
 
-4. Abre el archivo HTML en tu navegador. Verás un cuadrado de 100x100 píxeles.
+1. Abre el archivo HTML en tu navegador. Verás un cuadrado de 100x100 píxeles.
 
-5. Practicar el uso de las propiedades de espaciado.
+1. Practicar el uso de las propiedades de espaciado.
 
 - Margin: Agrega un margen de 10 píxeles a todos los lados del elemento.
 
