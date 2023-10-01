@@ -86,3 +86,4 @@ Además, combinar celdas en la tabla con los atributos rowspan y colspan, como s
 
 ## **Solucion**
 
+[TABLA](https://drive.google.com/drive/u/0/folders/1R6f0jr-wA_4-1L1Z8_RShK3Oe-gRJ6Xd)
