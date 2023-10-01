@@ -309,7 +309,7 @@ Instrucciones:
 
 1. Crear un nuevo documento HTML.
 
-1. Crear un formulario con los siguientes campos:
+2. Crear un formulario con los siguientes campos:
 
 - Nombre del producto
 
@@ -323,7 +323,7 @@ Instrucciones:
 
 - Información de contacto (nombre, correo electrónico, número de teléfono)
 
-1. Agregar los siguientes campos relacionados al formulario:
+3. Agregar los siguientes campos relacionados al formulario:
 
 - Método de pago
 
@@ -331,7 +331,7 @@ Instrucciones:
 
 - Comentarios
 
-1. Utilizar las etiquetas HTML apropiados para cada campo.
+4. Utilizar las etiquetas HTML apropiados para cada campo.
 
 
 
