@@ -65,8 +65,7 @@ Para asociar una etiqueta con un control de entrada, colocamos la etiqueta <labe
 
 Por ejemplo, el siguiente código crea un checkbox con el nombre "intereses" y el valor "deporte" y lo asocia con una etiqueta con el texto "Deportes":
 
-<input type="checkbox" name="intereses" value="deporte" id="deportes">
-<label for="deportes">Deportes</label>
+![imagen1ses5](image-14.png)
 
 La etiqueta "Deportes" se muestra junto al checkbox. Cuando el usuario hace clic en el checkbox, la etiqueta "Deportes" también se activa.
 
