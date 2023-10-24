@@ -182,3 +182,44 @@ Practicar el uso de las propiedades de espaciado margin, padding, border y borde
 
 1. ¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?
 
+## **Solucion**
+
+![imagsolses9](image-110.png)
+![imaso9-2se9](image-111.png)
+
+1. **¿Qué es la propiedad margin?:**
+
+La propiedad CSS margin establece el margen para los cuatro lados. Es una abreviación para evitar tener que establecer cada lado por separado con las otras propiedades de margen: margin-top (en-US), margin-right , margin-bottom y margin-left (en-US).
+
+1. **¿Qué es la propiedad padding?**
+
+La propiedad padding es la que crea el espacio o área alrededor del contenido de un elemento. Consiste en el relleno superior, derecho, inferior e izquierdo. En CSS se escriben como padding-top:, padding-right:, padding-bottom: y padding-left:.
+
+1. **¿Qué es la propiedad border?**
+
+La propiedad border permite definir en una única regla todos los bordes de los elementos seleccionados. Se puede utilizar border para definir el o los valores siguientes: border-width , border-style , border-color .
+
+1. **¿Qué es la propiedad border-radius?**
+
+La propiedad CSS border-top-left-radius establece el redondeo de la esquina superior izquierda del elemento. El redondeo puede ser un círculo o una elipse, o si uno de los valores es 0 , no se redondeará la esquina, dejándola cuadrada.
+
+1. **¿Qué unidades de medida se pueden utilizar para las propiedades de espaciado?**
+
+- **Píxeles (px):** Las unidades de píxeles son absolutas y proporcionan un control preciso sobre el espaciado. Por ejemplo, margin: 10px; establecerá un margen de 10 píxeles.
+
+- **Porcentaje (%):** Las unidades de porcentaje son relativas y se basan en el tamaño del elemento contenedor. Por ejemplo, padding: 5%; establecerá el relleno en un 5% del ancho del elemento contenedor.
+
+- **Em (em):** Las unidades "em" son relativas al tamaño de fuente actual del elemento. Si el tamaño de fuente es 16px y estableces margin: 1em;, el margen será igual a 16px.
+
+- **Rem (rem):** Similar a "em", pero se basa en el tamaño de fuente del elemento raíz (generalmente el elemento <html>). Esto proporciona una forma más predecible de establecer espaciado relativo.
+
+- **Centímetros (cm), milímetros (mm) y pulgadas (in):** Estas son unidades absolutas que se basan en medidas físicas reales. Por ejemplo, margin: 1cm; establecerá un margen de 1 centímetro.
+
+- **Puntos (pt) y picas (pc):** Estas unidades absolutas son comúnmente utilizadas en diseño de impresión y tipografía. Un punto es aproximadamente 1/72 de pulgada, y una pica equivale a 12 puntos.
+
+- **Viewport Width (vw) y Viewport Height (vh):** Estas unidades son relativas al tamaño de la ventana gráfica del navegador. Por ejemplo, width: 50vw; establecerá el ancho de un elemento al 50% del ancho de la ventana gráfica.
+
+- **Viewport Minimum** (vmin) y Viewport Maximum (vmax): Estas unidades se basan en el tamaño mínimo o máximo de la ventana gráfica del navegador. height: 10vmin; establecerá la altura al 10% del valor más pequeño entre el ancho y el alto de la ventana.
+
+- **Unidades fr:** Estas unidades se utilizan en diseño de cuadrículas (grid) y flexbox. Un "fr" representa una fracción del espacio disponible en un contenedor.
+
