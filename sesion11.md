@@ -180,7 +180,7 @@ Las pseudoclases se pueden dividir en dos categorías principales:
 
 - Pseudoclases de acción: Estas pseudoclases especifican el estado del elemento en respuesta a una acción del usuario, como hacer clic o pasar el cursor por encima.
 
-[developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-broken)
+[https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-broken](https://developer.mozilla.org/en-US/docs/Web/CSS/:-moz-broken)
 
 Orden de las pseudoclases:
 
@@ -318,7 +318,7 @@ Los pseudoelementos se añaden a los selectores, pero en lugar de describir un e
 
 Los pseudoelementos son palabras clave que se añaden a los selectores para seleccionar y dar estilo a elementos que no existen en el HTML, o que no son un simple elemento en sí.
 
-[developer.mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-color-swatch)
+[https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-color-swatch](https://developer.mozilla.org/en-US/docs/Web/CSS/::-moz-color-swatch)
 
 Pseudoelementos de contenido:
 Ejemplos de pseudoelementos de contenido:
