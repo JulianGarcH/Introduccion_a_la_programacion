@@ -158,3 +158,83 @@ html
 </html>
 
 ```
+
+Este ejemplo muestra cómo las propiedades de posicionamiento y visualización de CSS afectan a la apariencia de los elementos HTML.
+
+Elemento de bloque: El elemento .bloque se muestra como una caja de bloque, que ocupa toda la anchura de su contenedor y se muestra en una nueva línea.
+
+Elemento de línea: El elemento .en línea se muestra como una caja de línea, que se muestra en la misma línea que el texto circundante.
+
+Elemento de línea con ancho y altura definidos: El elemento .inline-bloque se muestra como una caja de línea con ancho y altura definidos.
+
+Elemento posicionado de forma absoluta: El elemento .absoluto se posiciona de forma absoluta, es decir, se coloca en una posición específica en la página, independientemente del flujo normal del documento.
+
+Elemento posicionado de forma relativa: El elemento .relativo se posiciona de forma relativa, es decir, se desplaza desde su posición original en el flujo normal del documento.
+
+Elemento posicionado de forma fija: El elemento .fijo se posiciona de forma fija, es decir, se coloca en una posición específica en la ventana del navegador y permanece en esa posición incluso cuando el usuario se desplaza por la página.
+
+Elemento posicionado de forma sticky: El elemento .sticky se posiciona de forma fija cuando el usuario se desplaza por la página, pero se vuelve a comportar de forma normal cuando el usuario alcanza el borde superior o inferior de la ventana del navegador.
+
+# **La propiedad z-index**}
+
+![imag7ses10](image-118.png)
+
+La propiedad z-index de CSS especifica el orden de apilamiento de un elemento posicionado y sus descendientes. Cuando varios elementos se superponen, los elementos con mayor valor z-index cubren aquellos con menor valor.
+
+El valor de z-index puede ser un número entero positivo o negativo. Un valor de z-index de 0 significa que el elemento se comporta de forma normal, siguiendo el flujo normal del documento.
+
+Por ejemplo, el siguiente código CSS establece el valor z-index de un elemento a 10:
+
+![imag8ses10](image-119.png)
+
+Este código hará que el elemento .elemento se muestre en la parte superior de cualquier otro elemento posicionado en la página, independientemente de su posición original en el flujo normal del documento.
+
+Aquí hay un ejemplo de cómo se puede usar la propiedad z-index para crear un efecto de tooltip:
+
+```
+html
+
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Ejemplo de z-index</title>
+  <style>
+    .tooltip {
+      position: absolute;
+      top: 100px;
+      left: 100px;
+      z-index: 10;
+      background-color: lightgray;
+      padding: 10px;
+      border-radius: 5px;
+      display: none;
+    }
+
+    .elemento {
+      position: relative;
+      cursor: pointer;
+    }
+
+    .elemento:hover .tooltip {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ejemplo de z-index</h1>
+
+  <div class="elemento">
+    Este es un elemento con un tooltip.
+  </div>
+
+  <div class="tooltip">
+    Este es el contenido del tooltip.
+  </div>
+</body>
+</html>
+
+```
+
+En este ejemplo, el elemento .elemento tiene un tooltip que se muestra cuando el usuario lo pasa el cursor por encima. El tooltip está posicionado de forma absoluta y tiene un valor z-index de 10. Esto significa que el tooltip siempre se mostrará en la parte superior del elemento .elemento, independientemente de su posición original en el flujo normal del documento.
+
+La propiedad z-index es una herramienta poderosa que se puede usar para crear una variedad de efectos de visualización.
